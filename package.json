@@ -1,8 +1,8 @@
 {
   "name": "heardis",
-  "version": "0.0.0",
-  "description": "tessel2 + Ambient Module to stream dB levels to plot.ly",
-  "main": "heardis.js",
+  "version": "1.0.0",
+  "description": "Tessel2 + Ambient Module to stream dB levels to plot.ly.",
+  "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -11,9 +11,9 @@
     "Tessel"
   ],
   "license": "MIT",
-  "readme": "A bare bones Tessel 2 blinky script.",
+  "readme": "Tessel2 + Ambient module to stream db levels to plot.ly.",
   "dependencies": {
-    "plotly": "^1.0.6",
-    "tessel": "^0.3.24"
+    "ambient-attx4": "^0.2.8",
+    "plotly": "^1.0.6"
   }
 }

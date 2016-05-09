@@ -2,5 +2,6 @@
     "user": "username",
     "apiKey": "plotlyApiKey",
     "streamKey": "plotlyStreamKey",
-    "graphName": "nodenodenode"
+    "graphName": "nodenodenode",
+    "ambientModulePort": "A"
 }
